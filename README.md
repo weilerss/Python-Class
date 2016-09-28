@@ -1,2 +1,2 @@
 # Python-Class
-projects and coding for class
+Projects and coding for class
